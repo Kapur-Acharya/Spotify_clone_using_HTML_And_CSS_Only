@@ -349,6 +349,7 @@
         font-size: 0.8rem;
         font-weight: 600;
     }
+/* bottom-section */
     footer{
         background: linear-gradient(to right, purple , blue );
         display: flex;
